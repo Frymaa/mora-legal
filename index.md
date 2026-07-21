@@ -9,4 +9,4 @@ Educational market intelligence for iOS.
 - [Privacy Policy](privacy-policy)
 - [Terms of Use](terms-of-use)
 
-Contact: parisjusufi@gmail.com
+Contact: paris@fryma.xyz
