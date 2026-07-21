@@ -88,4 +88,4 @@ release notes.
 
 ## Contact
 
-Questions or requests: **parisjusufi@gmail.com**
+Questions or requests: **paris@fryma.xyz**
