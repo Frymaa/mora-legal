@@ -94,4 +94,4 @@ residence.
 
 ## Contact
 
-Questions: **parisjusufi@gmail.com**
+Questions: **paris@fryma.xyz**
